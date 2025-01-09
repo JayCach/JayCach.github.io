@@ -1,12 +1,10 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(100xbase.png);
-    height: 2496px;
-    width: 3359px;
-/*
-    margin-left: -403px;
-    margin-top: -280px;
-*/
+    height: 598px;
+    width: 806px;
+/*margin-left: -403px;
+    margin-top: -280px;*/
 .ds4.disconnected {
     background: url(ps4-assets/disconnected.svg);
 }
